@@ -5,3 +5,5 @@ songs/node_modules/
 youtube/node_modules/
 streams/client/node_modules
 streams/server/node_modules
+hooks-simple/node_modules
+rtmpserver/node_modules
